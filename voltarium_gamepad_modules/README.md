@@ -1,4 +1,7 @@
-# ScottoModules
+# Voltarium Gamepad w/ Modules
+Utilizing the ScottoKeebs modules from below
+
+## ScottoModules
 
 Two modules based on the STM32F072CBT6 to make integrated MCU PCBs simpler. They're designed to sit between 2 switches on an ortholinear or row-staggered keyboard, column-staggered will require some manual moving to get them to fit correctly.
 
